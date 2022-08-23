@@ -1,4 +1,4 @@
-# BackTest
+# QuantPack
 Python package for backtesting trading strategies 
 
 # Structure
